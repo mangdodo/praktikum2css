@@ -3,26 +3,30 @@
     margin: 0;
 }
 .border-sample{
-    border:thin solid black !important;
+    border:solid deepskyblue!important;
 }
 body{
-    font-family: 'Noto Sans JP', sans-serif;
-    color: #4e4e4e;
+    font-family: 'Inconsolata';
+    color: #000000;
     font-size: 16pt;
 }
 header{
-    color: #6495ED;
+    color: #ffee07;
     font-size: 24pt;
     padding: 20px;
+    background-color: deepskyblue;
 }
 footer{
-    color: rgb(100, 149, 237);
+    color: #ffee07;
     font-size: 24pt;
+    padding: 20px;
+    background-color: deepskyblue;
 }
 .container{
     padding: 20px;
 }
 h1{
+    font-family:'Lucida Handwriting',cursive ;
     margin-bottom: 20px;
 }
 .content{
